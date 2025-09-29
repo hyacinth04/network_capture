@@ -6,7 +6,6 @@ This repository contains the deliverables and supporting files for a networking 
 ## Repository Contents
 
 The following files constitute the submission for this project:
-
 * **`MyNetworkCapture.pcapng`**: The raw packet capture file. This file contains the complete, unfiltered dataset of network traffic recorded during the analysis session. It should be opened using Wireshark.
 * **`Network_Traffic_Analysis.pdf`**: The formal report summarizing all technical findings, including detailed protocol analysis and packet characteristics.
 
