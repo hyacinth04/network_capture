@@ -13,7 +13,7 @@ The following files constitute the submission for this project:
 ##  Tools and Technologies
 
 * **Packet Analyzer:** **Wireshark** (Used for live capture, precise filtering, and deep packet inspection.)
-* **Operating System:** [**Your Specific OS (e.g., Windows 11 / macOS Sonoma)**]
+* **Operating System:** **Windows 11**
 * **Protocols Analyzed:** TCP, UDP, DNS, TLS (HTTPS)
 
 ---
